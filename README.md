@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Intro
+
+- [Linkedin](https://www.linkedin.com/in/atakan-erdo%C4%9Fan-096a9020b/recent-activity/all/)
 <!--
 **AtakanErdogan001/AtakanErdogan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
